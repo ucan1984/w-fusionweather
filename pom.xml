@@ -12,6 +12,7 @@
 
     <properties>
         <demo.main>com.service.fusionweather.FusionweatherApplication</demo.main>
+        <cse.version>2.3.56</cse.version>
     </properties>
 
     <dependencyManagement>
